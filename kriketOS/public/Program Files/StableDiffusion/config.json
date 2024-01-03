@@ -1,0 +1,9 @@
+{
+    "schedulerConstUrl": [
+        "/Program Files/StableDiffusion/scheduler_dpm_solver_multistep_consts.json",
+        "/Program Files/StableDiffusion/scheduler_pndm_consts.json"
+    ],
+    "wasmUrl": "/Program Files/StableDiffusion/stable_diffusion_webgpu.wasm",
+    "cacheUrl": "https://huggingface.co/spaces/mrfakename/OpenDalleV1.1-GPU-Demo",
+    "tokenizer": "openai/clip-vit-large-patch14"
+}
